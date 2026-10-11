@@ -1,0 +1,311 @@
+{
+  "business": "ShopEase Online Store (fictional demo business)",
+  "last_reviewed": "2026-10-10",
+  "policy_note": "These are sample policies for a demo. Confirm and replace them with approved business policies before real use.",
+  "faqs": [
+    {
+      "id": 1,
+      "category": "Business hours",
+      "question": "What are your business hours?",
+      "answer": "ShopEase support is available Monday to Saturday, 9:00 AM to 6:00 PM. We are closed on Sundays.",
+      "keywords": [
+        "hours",
+        "open",
+        "closing",
+        "working time",
+        "business time"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Shipping",
+      "question": "Do you deliver products?",
+      "answer": "Yes. ShopEase delivers to supported locations. Enter your delivery address at checkout to check service availability.",
+      "keywords": [
+        "delivery",
+        "deliver",
+        "shipping",
+        "ship",
+        "locations"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Support",
+      "question": "How can I contact customer support?",
+      "answer": "Use the Contact Support option in this demo to submit your question. A support representative would follow up through the contact details you provide; this demo does not send messages automatically.",
+      "keywords": [
+        "contact",
+        "support",
+        "help",
+        "representative",
+        "agent"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Returns",
+      "question": "Can I return a product?",
+      "answer": "Eligible unused items can be requested for return within 7 days of delivery, with original packaging and proof of purchase. Some items may be excluded. Contact support to confirm eligibility before sending an item back.",
+      "keywords": [
+        "return",
+        "send back",
+        "exchange",
+        "eligible"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Order tracking",
+      "question": "How can I track my order?",
+      "answer": "Open the order-tracking option on the ShopEase website and enter your order ID. This demo cannot access real orders or live tracking information.",
+      "keywords": [
+        "track",
+        "tracking",
+        "order status",
+        "where is my order",
+        "shipment status"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Payments",
+      "question": "What payment methods are accepted?",
+      "answer": "Available payment methods are displayed at checkout. This demo does not process payments or store card details.",
+      "keywords": [
+        "payment methods",
+        "pay",
+        "card",
+        "upi",
+        "cash",
+        "checkout"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Refunds",
+      "question": "Do you offer refunds?",
+      "answer": "Approved returns are eligible for a refund to the original payment method. Processing time depends on the payment provider. Contact support for a specific refund status.",
+      "keywords": [
+        "refund",
+        "money back",
+        "reimbursement",
+        "refund status"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Cancellation",
+      "question": "How can I cancel an order?",
+      "answer": "Contact support as soon as possible with your order ID. Cancellation depends on whether the order has already been dispatched; this demo cannot cancel orders directly.",
+      "keywords": [
+        "cancel",
+        "cancellation",
+        "stop order"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Store",
+      "question": "Do you sell online?",
+      "answer": "Yes. ShopEase is a sample online store. Product browsing and checkout are represented as demo concepts only.",
+      "keywords": [
+        "online store",
+        "website",
+        "buy online",
+        "shop online"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Product information",
+      "question": "Where can I find product details?",
+      "answer": "Open the relevant product page to view its description, available options, and listed price. Product details in this sample are illustrative.",
+      "keywords": [
+        "product details",
+        "description",
+        "specifications",
+        "price"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Shipping fees",
+      "question": "How much does shipping cost?",
+      "answer": "Any shipping fee is shown at checkout before you place an order. The amount may vary by delivery location and order details.",
+      "keywords": [
+        "shipping fee",
+        "delivery fee",
+        "shipping cost",
+        "delivery charge"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Delivery times",
+      "question": "How long does delivery take?",
+      "answer": "The estimated delivery window is shown at checkout or in the order confirmation. Delivery times vary by location and availability; this demo has no live shipment data.",
+      "keywords": [
+        "delivery time",
+        "when arrive",
+        "how long",
+        "ETA",
+        "arrival"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Availability",
+      "question": "Is a product in stock?",
+      "answer": "Check the product page for the latest availability. This demo cannot check live inventory, so contact support if the listing is unclear.",
+      "keywords": [
+        "stock",
+        "available",
+        "availability",
+        "inventory",
+        "in stock"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Discounts",
+      "question": "Do you offer discounts or promo codes?",
+      "answer": "Any active offers and applicable promo-code terms should be shown on the ShopEase website or at checkout. This demo does not maintain live promotions.",
+      "keywords": [
+        "discount",
+        "offer",
+        "coupon",
+        "promo code",
+        "sale"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Damaged items",
+      "question": "What should I do if my product arrives damaged?",
+      "answer": "Please contact support with your order ID and a brief description of the issue. A support representative can explain the next steps under the store policy. Avoid sharing sensitive payment details.",
+      "keywords": [
+        "damaged",
+        "broken",
+        "defective",
+        "wrong item",
+        "arrived damaged"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Account help",
+      "question": "I cannot access my account. What should I do?",
+      "answer": "Use the account-recovery option on the ShopEase website, if available. If you still need help, contact support. Never share your password or one-time passcode in chat.",
+      "keywords": [
+        "login",
+        "sign in",
+        "password",
+        "account access",
+        "locked account"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Payment issues",
+      "question": "My payment failed or was deducted but I did not get confirmation. What should I do?",
+      "answer": "Check your order history and payment-provider status first. If the amount was deducted without an order confirmation, contact support with the approximate time and transaction reference only. Do not share card numbers, PINs, or one-time passcodes.",
+      "keywords": [
+        "payment failed",
+        "deducted",
+        "transaction",
+        "payment issue",
+        "no confirmation"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Privacy",
+      "question": "How is my personal information handled?",
+      "answer": "A real ShopEase service should publish a privacy notice explaining what data it collects, why it is used, how long it is retained, and how to request help. This prototype stores only optional lead submissions locally when enabled; do not enter sensitive information.",
+      "keywords": [
+        "privacy",
+        "personal data",
+        "data protection",
+        "information",
+        "security"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "Complaints",
+      "question": "How can I submit a complaint?",
+      "answer": "Use Contact Support to describe the issue and include an order ID only if relevant. A support representative should review it. This demo records a local submission only if lead capture is enabled; it does not send a ticket externally.",
+      "keywords": [
+        "complaint",
+        "complain",
+        "issue",
+        "feedback",
+        "unhappy"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Escalation",
+      "question": "Can I speak to a human support representative?",
+      "answer": "Yes. Choose Contact Support and submit your question. In this demo, the request is saved locally only when lead capture is enabled; no live agent is connected.",
+      "keywords": [
+        "human",
+        "person",
+        "agent",
+        "escalate",
+        "representative",
+        "talk to someone"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Order changes",
+      "question": "Can I change my delivery address after ordering?",
+      "answer": "Contact support as soon as possible. Address changes depend on order status and delivery partner restrictions; this demo cannot modify an order.",
+      "keywords": [
+        "change address",
+        "delivery address",
+        "edit order",
+        "address change"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Gift orders",
+      "question": "Can I send an order as a gift?",
+      "answer": "Gift options, if available, should be shown on the product page or at checkout. This sample store does not provide a live gift-wrapping service.",
+      "keywords": [
+        "gift",
+        "gift wrap",
+        "present",
+        "send as gift"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Order confirmation",
+      "question": "I did not receive an order confirmation. What should I do?",
+      "answer": "Check your email spam folder and order history first. If the order still does not appear, contact support with the approximate order time and payment reference, without sharing sensitive payment details.",
+      "keywords": [
+        "confirmation email",
+        "order confirmation",
+        "no email",
+        "receipt"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Product options",
+      "question": "Can I change the size or color of a product?",
+      "answer": "Available sizes and colors are shown on the product page. After ordering, contact support to ask whether a change is possible; it depends on stock and dispatch status.",
+      "keywords": [
+        "size",
+        "color",
+        "variant",
+        "change product",
+        "different size"
+      ]
+    }
+  ]
+}
